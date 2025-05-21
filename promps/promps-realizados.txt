@@ -1,0 +1,7 @@
+1. ¿Cuál es la forma adecuada de leer un archivo en Java utilizando la clase `File`?
+
+2. ¿Cómo se puede generar un archivo con extensión `.dat` en Java y escribir datos en él?
+
+3. ¿Es una buena práctica crear una clase separada para manejar la lógica de validación del usuario? ¿Por qué?
+
+4. ¿Cómo se puede generar un archivo de texto (.txt) desde el código Java y escribir contenido en él?
